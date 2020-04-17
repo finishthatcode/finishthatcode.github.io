@@ -13,9 +13,39 @@ body {
   text-align: center;
 }
 
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
 h1 {
+  color: darken(#77a09b, 15);
   font-size: 4rem;
-  font-weight: 100;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+hr {
+  border: 0;
+  background: lighten(#77a09b, 10);
+  width: 100%;
+  height: 1px;
+  margin: 1rem 0;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 .ftc-main {
