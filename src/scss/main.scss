@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;600;700&display=swap");
+
+@import "@hyky/pond/pond.scss";
+
+html,
+body {
+  color: #77a09b;
+  background: #eae1bd;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 100;
+}
+
+.ftc-main {
+  padding: 5rem;
+}
