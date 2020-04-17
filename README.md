@@ -5,6 +5,10 @@ finishthatcode.github.io
 
 Este website é uma aplicação criada com `create-react-app`, portanto veja o `README-CRA.md` para mais detalhes (em inglês).
 
+> **IMPORTANTE**
+> 
+> Nunca dê merge na branch `master`. Atualize o código aqui, execute `deploy` e pronto!
+
 Executando
 ----------
 
