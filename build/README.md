@@ -1,5 +1,4 @@
-finishthatcode.github.io
-========================
+# finishthatcode.github.io
 
 > Website coletivo FinishThatCode.
 
